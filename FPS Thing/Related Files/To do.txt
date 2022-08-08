@@ -1,0 +1,34 @@
+
+
+
+Character notes:
+
+>Camera
+
+
+
+>Weapon 1
+
+
+
+>Weapon 2
+
+
+
+>Weapon 3
+Bullets hover on the air for a while, or until player presses button, then they all fire at the same time.
+
+
+>Weapon 4
+Uses war fans. Can be thrown and return to the player, or used as melee. Can also push players back.
+
+
+>Weapon 5
+
+
+
+>Weapon 6
+
+
+
+
